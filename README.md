@@ -1,7 +1,5 @@
 # white-rabit-react-users-list-test
 
-You can find the deployed app here[react-users-list](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
